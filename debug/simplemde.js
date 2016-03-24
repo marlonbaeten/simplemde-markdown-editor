@@ -1,5 +1,5 @@
 /**
- * simplemde v1.10.1
+ * simplemde v1.11.3
  * Copyright Next Step Webs, Inc.
  * @link https://github.com/NextStepWebs/simplemde-markdown-editor
  * @license MIT
@@ -12038,7 +12038,6 @@ require("codemirror/addon/display/placeholder.js");
 require("codemirror/mode/gfm/gfm.js");
 require("codemirror/mode/xml/xml.js");
 var marked = require("marked");
-
 
 // Some variables
 var isMac = /Mac/.test(navigator.platform);
