@@ -1,6 +1,6 @@
 {
   "name": "simplemde",
-  "version": "1.11.1",
+  "version": "1.11.2",
   "homepage": "https://github.com/NextStepWebs/simplemde-markdown-editor",
   "authors": [
     "Wes Cossick"
@@ -26,6 +26,7 @@
     "bower_components"
   ],
   "dependencies": {
-    "codemirror": "codemirror/CodeMirror#~5.13.2"
+    "codemirror": "codemirror/CodeMirror#~5.13.2",
+    "marked": "~0.3.5"
   }
 }
